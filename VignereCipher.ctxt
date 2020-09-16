@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=VignereCipher
+comment1.params=inputText\ keyText
+comment1.target=java.lang.String\ encryptProcess(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Encrypt\ with\ input\ text\ and\ key\n\ @param\ inputText\ -\ string\ need\ to\ encrypt\n\ @param\ keyText\ -\ key\ use\ to\ encrypt\n\ @return\ Text\ result\ after\ encrypt\n
+comment2.params=inputText\ keyText
+comment2.target=java.lang.String\ decryptProcess(java.lang.String,\ java.lang.String)
+comment2.text=\n\ Decrypt\ with\ input\ text\ and\ key\n\ @param\ inputText\ -\ string\ need\ to\ decrypt\n\ @param\ keyText\ -\ key\ use\ to\ decrypt\n\ @return\ Text\ result\ after\ decrypt\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
